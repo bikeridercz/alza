@@ -1,0 +1,12 @@
+itemList=[
+	"https://www.alza.cz/msi-geforce-rtx-3060-ti-gaming-x-trio-d6270352.htm",
+	"https://www.alza.cz/gigabyte-geforce-rtx-3060-ti-gaming-oc-8g-d6255497.htm",
+	"https://www.alza.cz/gigabyte-geforce-rtx-3060-ti-gaming-oc-pro-8g-d6255498.htm",
+	"https://www.alza.cz/asus-rog-strix-gtx1650-super-a4g-gaming-d5721721.htm",
+]
+pageList=[
+	"https://www.alza.cz/graficke-karty-nvidia-geforce-rtx-3060-ti/18884150.htm",
+	"https://www.alza.cz/graficke-karty-nvidia-geforce-gtx-1650/18869008.htm",
+	"https://www.alza.cz/graficke-karty-nvidia-geforce-rtx3070/18881603.htm",
+	#"https://www.alza.cz/macbook-air-m1/18884163.htm#f&limit=-1--29990&cst=1&cud=0&pg=1&prod=&par16597=16597-338&sc=431",
+]
